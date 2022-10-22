@@ -1,1 +1,1 @@
-# edabit-challenge
+# python-challenge
